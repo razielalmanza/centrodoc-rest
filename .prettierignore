@@ -1,0 +1,3 @@
+src/centro-doc/dao/personas/**
+src/centro-doc/services/personas/**
+src/centro-doc/routes/index.ts

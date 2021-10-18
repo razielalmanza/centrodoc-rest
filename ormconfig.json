@@ -1,0 +1,13 @@
+{
+  "type": "mysql",
+  "host": "localhost",
+  "port": "safe-holder",
+  "username": "safe-holder",
+  "password": "safe-holder",
+  "database": "safe-holder",
+  "synchronize": true,
+  "logging": false,
+  "entities": ["src/centro-doc/model/entity/**/*{.ts,.js}"],
+  "migrations": ["src/centro-doc/model/migration/**/*{.ts,.js}"],
+  "subscribers": ["src/centro-doc/model/subscriber/**/*{.ts,.js}"]
+}
