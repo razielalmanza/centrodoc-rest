@@ -2,6 +2,15 @@
 
 Back-end de la aplicación Centro de Documentación compuesto por servicios RESTful para administrar la base de datos.
 
+---
+**NOTA**
+
+Este repositorio es una copia de la última versión del repositorio alojado en los servidores de la Filmoteca. 
+Esta copia no cuenta con credenciales de acceso, IPs de servidores propios de la institución.
+Se anexa en el directorio _evidencias_ el registro de commits del repositorio original.
+
+---
+
 ## Comenzando 🚀
 
 El back-end de la aplicación está desarrollado en TypeScript con ayuda de Express.js y usando Node.Js.
