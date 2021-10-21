@@ -30,7 +30,7 @@ En este caso Typescript con ayuda de Express.js para el manejo de peticiones HTT
 - Clonar el repositorio.
 
 ```bash
-git@132.247.164.43:centrodoc/centrodoc-rest.git
+git@safe-holder/centrodoc-rest.git
 ```
 
 - Instalar proyecto.
